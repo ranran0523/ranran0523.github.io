@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
+[Download CV Here](https://ranran0523.github.io/files/cv.pdf)
 
 Education
 ======
